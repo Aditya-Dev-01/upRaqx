@@ -60,9 +60,11 @@ To set up environment variables, follow these steps:
 
    ```bash
    PORT=8080
-   MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.zfzgq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+   MONGODB_URI=mongodb+srv://abcd:jUWWHxiQVATiA04w@cluster0.zfzgq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
    SECRETEKEY=SECRETEKEY
-   ```
+   # login id:-john@gmail.com
+   # password:-john@1234
+    ```
 
 ## Running the Application
 
