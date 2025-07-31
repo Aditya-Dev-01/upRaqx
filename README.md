@@ -51,8 +51,8 @@ To set up environment variables, follow these steps:
 2. Add your environment-specific variables in the `.env` file.
 
    ```bash
-   NEXT_PUBLIC_BASE_URL=http://localhost:8080/api/
-   NEXT_PUBLIC_SERVER_URL=ttp://localhost:8080
+   NEXT_PUBLIC_BASE_URL=http://localhost:8080/api
+   NEXT_PUBLIC_SERVER_URL=http://localhost:8080
    ```
 
 3. Create a `.env` file in the backend directory of your project.
